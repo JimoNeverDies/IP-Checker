@@ -7,21 +7,18 @@
 <strong>Tool to view obtain ips information</strong>
 <br>
 <br>
-<br><br><br>
+<br><br>
 </strong>
-<img src="https://i.postimg.cc/YqpN8Rmj/Desktop-Screenshot-2024-01-16-03-15-28-34.png" width="800", height="400"></p>
-<br>
+https://github.com/JimoNeverDies/IP-Checker/assets/105875528/5feb1716-0d0f-470b-bb5e-c8169f97fe04
 
 -----
 
 ### <p align="center">💻 How to install it 💻</p>
 
 <br><br>
-<pre>+ Run Install.bat</pre>
+<pre>+ Install the requirements </pre>
 <br>
-<pre>+ Run your VPN (recomended Is not Necesari)</pre>
-<br>
-<pre>+ Run start.bat</pre>
+<pre>+ Run Start.bay</pre>
 <br>
 
 -----
